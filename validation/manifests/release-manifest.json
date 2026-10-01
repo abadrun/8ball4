@@ -1,0 +1,22 @@
+{
+  "project": "MR. SPICY",
+  "host": "8 Ball Pool",
+  "original_artifact": "8-ball-pool-i3rby-IPAOMTK.COM.ipa",
+  "original_sha256": "59607b4177f8ffdf36649d9bb3b0c5900d39f5b6b3eaa0c6e351ba353a58c2f8",
+  "original_preserved_location": "repository root (see original/PRESERVATION.md)",
+  "mr_spicy_version": "1.0.0",
+  "host_version": "56.30.0",
+  "host_build": "5328",
+  "host_bundle_identifier": "com.miniclip.8ballpoolmult",
+  "release_artifact": null,
+  "release_sha256": null,
+  "build_status": "NOT DONE",
+  "build_blocker": "BLOCKED BY SOURCE LIMITATION - host source unavailable; no Apple toolchain in this environment",
+  "integration_status": "NOT ATTEMPTED",
+  "signing_status": "SIGNING NOT AVAILABLE",
+  "packaging_status": "NOT DONE",
+  "validation_status": "PARTIAL - static validation only (see documentation/validation.md)",
+  "installation_test": "INSTALLATION TEST NOT PERFORMED",
+  "compatibility_status": "REQUIRES REVIEW",
+  "generated": "2026-10-01"
+}

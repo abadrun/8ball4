@@ -1,0 +1,18 @@
+{
+  "layer": "MR. SPICY",
+  "version": "1.0.0",
+  "defaultLanguage": "en",
+  "supportedLanguages": ["en", "ar"],
+  "defaultAppearance": "system",
+  "overlayVisibleByDefault": true,
+  "features": ["account", "pro", "license", "settings", "language", "appearance", "information", "help", "about"],
+  "entitlementProvider": null,
+  "entitlementProviderStatus": "UNCONFIGURED",
+  "host": {
+    "bundleIdentifier": "com.miniclip.8ballpoolmult",
+    "validatedShortVersion": "56.30.0",
+    "validatedBuild": "5328",
+    "compatibility": "REQUIRES REVIEW"
+  },
+  "allowUnvalidatedHost": false
+}
